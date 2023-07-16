@@ -1,5 +1,7 @@
-# Hi there 👋
-### I am Aseem Gupta
+# Hi there 👋,I am Aseem Gupta
+## Love building useful Projects and solving DSA Ques
+
+
 🔭 I’m currently working on Python Project (In Devlopment Stage)
 
 🌱 I’m currently learning Django (Python Framework) , Web Dev, C++
@@ -7,6 +9,8 @@
 📫 My Favourite Languages - Python Cpp
 
 👯 I’m looking to collaborate on Django Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AseemGupta39&label=Profile%20views&color=0e75b6&style=flat" alt="AseemGupta39" /> </p>
+
 
 📫 Connect with me 
 
@@ -15,6 +19,7 @@
 <a href="https://www.linkedin.com/in/aseem-gupta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aseem-gupta1" height="30" width="40" /></a>
 <a href="https://leetcode.com/aseemguptajaipur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aseemguptajaipur/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">👨‍💻 Languages and Tools:</h3>
 <p align="left">
@@ -32,6 +37,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
 
 </p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AseemGupta39&show_icons=true&hide_border=true&theme=dark&locale=en&layout=compact" alt="Most used Programming Languages" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-aadi&theme=dark" alt="Profile Status" /></p>
 
 <!--
 **AseemGupta39/aseemgupta39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
