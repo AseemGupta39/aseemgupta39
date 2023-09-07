@@ -38,7 +38,6 @@
 
 </p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=AseemGupta39&show_icons=true&hide_border=true&theme=dark&locale=en&layout=compact" alt="Most used Programming Languages" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-aadi&theme=dark" alt="Profile Status" /></p>
 
 <!--
 **AseemGupta39/aseemgupta39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
