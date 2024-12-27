@@ -8,7 +8,7 @@
 
 📫 My Favourite Languages - Python Cpp
 
-👯 I’m looking to collaborate on Django and (Numpy Pandas) Projects
+👯 I’m looking to collaborate on Django and Data Science Projects
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AseemGupta39&label=Profile%20views&color=0e75b6&style=flat" alt="AseemGupta39" /> </p>
 
 
