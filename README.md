@@ -2,9 +2,9 @@
 ## Love building useful Projects and solving DSA Ques
 
 
-🔭 I’m currently working on Python Project (In Devlopment Stage)
+🔭 I have made many Python Projects(DSA Based,WEB Based,ML Based)
 
-🌱 I’m currently learning Django (Python Framework) , Web Dev, C++, NUMPY, PANDAS
+🌱 I’m currently learning Data Science at a great rate learning something each day
 
 📫 My Favourite Languages - Python Cpp
 
