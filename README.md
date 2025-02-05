@@ -2,9 +2,9 @@
 ## Love building useful Projects and solving DSA Ques
 
 
-🔭 I have made many Python Projects(DSA Based,WEB Based,ML Based)
+🔭 I have made many Python Projects(DSA Based,WEB Based,ML,GEN AI Based)
 
-🌱 I’m currently learning Data Science at a great rate learning something each day
+🌱 I’m currently learning Data Science at a great rate learning, something each day
 
 📫 My Favourite Languages - Python Cpp
 
