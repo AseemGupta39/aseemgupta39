@@ -4,7 +4,7 @@
 
 🔭 I have made many Python Projects(DSA Based,WEB Based,ML,GEN AI Based)
 
-🌱 I’m currently learning Data Science at a great rate learning, something each day
+🌱 I’m currently making highly scaleable applications like url shortner.
 
 📫 My Favourite Languages - Python Cpp
 
